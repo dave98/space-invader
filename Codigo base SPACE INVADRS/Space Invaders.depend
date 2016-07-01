@@ -1,0 +1,449 @@
+# depslib dependency file v1.0
+1343250945 source:c:\users\david\desktop\space invaders\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space invaders\inicia.h
+
+1370108260 source:c:\users\david\desktop\space invaders\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"disparos.h"
+
+1370109028 c:\users\david\desktop\space invaders\disparos.h
+	<allegro.h>
+
+1370109016 source:c:\users\david\desktop\space invaders\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1343250945 source:c:\users\david\desktop\space youtube\1 explicacion\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space youtube\1 explicacion\inicia.h
+
+1370109016 source:c:\users\david\desktop\space youtube\1 explicacion\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1370109028 c:\users\david\desktop\space youtube\1 explicacion\disparos.h
+	<allegro.h>
+
+1343250945 source:c:\users\david\desktop\space youtube\codigo base space invadrs\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space youtube\codigo base space invadrs\inicia.h
+
+1370109016 source:c:\users\david\desktop\space youtube\codigo base space invadrs\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1370109028 c:\users\david\desktop\space youtube\codigo base space invadrs\disparos.h
+	<allegro.h>
+
+1466928663 source:d:\c++\codigo base space invadrs\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+	"personajes.h"
+
+1466928663 d:\c++\codigo base space invadrs\disparos.h
+	<allegro.h>
+	"personajes.h"
+
+1343250945 source:d:\c++\codigo base space invadrs\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 d:\c++\codigo base space invadrs\inicia.h
+
+1466928293 source:d:\c++\codigo base space invadrs\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"disparos.h"
+	"personajes.h"
+	"diseno.h"
+	<stdlib.h>
+	<time.h>
+
+1114388774 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro.h
+	"allegro/base.h"
+	"allegro/system.h"
+	"allegro/debug.h"
+	"allegro/unicode.h"
+	"allegro/mouse.h"
+	"allegro/timer.h"
+	"allegro/keyboard.h"
+	"allegro/joystick.h"
+	"allegro/palette.h"
+	"allegro/gfx.h"
+	"allegro/color.h"
+	"allegro/draw.h"
+	"allegro/rle.h"
+	"allegro/compiled.h"
+	"allegro/text.h"
+	"allegro/font.h"
+	"allegro/fli.h"
+	"allegro/config.h"
+	"allegro/gui.h"
+	"allegro/sound.h"
+	"allegro/file.h"
+	"allegro/lzss.h"
+	"allegro/datafile.h"
+	"allegro/fixed.h"
+	"allegro/fmaths.h"
+	"allegro/matrix.h"
+	"allegro/quat.h"
+	"allegro/3d.h"
+	"allegro/3dmaths.h"
+	"allegro/alcompat.h"
+	"allegro/fix.h"
+
+1185147948 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\base.h
+	<errno.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"internal/alconfig.h"
+
+1341031972 c:\users\riuzaki\desktop\codeblocks\mingw\include\errno.h
+	<_mingw.h>
+
+1341031970 c:\users\riuzaki\desktop\codeblocks\mingw\include\_mingw.h
+
+1341031974 c:\users\riuzaki\desktop\codeblocks\mingw\include\limits.h
+	<_mingw.h>
+
+1341031976 c:\users\riuzaki\desktop\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341031976 c:\users\riuzaki\desktop\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1341031976 c:\users\riuzaki\desktop\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1182726802 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\internal\alconfig.h
+	"allegro/platform/alplatf.h"
+	"allegro/platform/aldjgpp.h"
+	"allegro/platform/alwatcom.h"
+	"allegro/platform/almngw32.h"
+	"allegro/platform/aldmc.h"
+	"allegro/platform/albcc32.h"
+	"allegro/platform/almsvc.h"
+	"allegro/platform/albecfg.h"
+	"allegro/platform/almaccfg.h"
+	"allegro/platform/alosxcfg.h"
+	"allegro/platform/alqnxcfg.h"
+	"allegro/platform/alucfg.h"
+	"allegro/platform/astdint.h"
+
+1185100720 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\alplatf.h
+
+1107324732 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\aldjgpp.h
+	<pc.h>
+	<dir.h>
+	<dpmi.h>
+	<go32.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/farptr.h>
+
+1341031972 c:\users\riuzaki\desktop\codeblocks\mingw\include\dir.h
+	<io.h>
+
+1341031974 c:\users\riuzaki\desktop\codeblocks\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+
+1341031980 c:\users\riuzaki\desktop\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341031972 c:\users\riuzaki\desktop\codeblocks\mingw\include\fcntl.h
+	<_mingw.h>
+	<io.h>
+
+1341031976 c:\users\riuzaki\desktop\codeblocks\mingw\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+	<sys/types.h>
+
+1341031974 c:\users\riuzaki\desktop\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1341031976 c:\users\riuzaki\desktop\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341031972 c:\users\riuzaki\desktop\codeblocks\mingw\include\getopt.h
+	<_mingw.h>
+
+1182016348 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1341031970 c:\users\riuzaki\desktop\codeblocks\mingw\include\conio.h
+	<_mingw.h>
+
+1341031972 c:\users\riuzaki\desktop\codeblocks\mingw\include\direct.h
+	<_mingw.h>
+	<stddef.h>
+	<io.h>
+
+1341031974 c:\users\riuzaki\desktop\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1182016348 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182820486 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\aldmc.h
+	<io.h>
+	<fcntl.h>
+	<stdint.h>
+
+1151123610 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1151123610 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1182016348 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\albecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1107324732 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\almaccfg.h
+	<MacTypes.h>
+	<QuickDraw.h>
+	<FCntl.h>
+
+1182016348 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\alosxcfg.h
+
+1182016348 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\alqnxcfg.h
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<unistd.h>
+
+1341031976 c:\users\riuzaki\desktop\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1182016348 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunixac.h"
+
+1182016348 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+
+1341031972 c:\users\riuzaki\desktop\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1142090344 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\system.h
+	"base.h"
+	"unicode.h"
+	"config.h"
+	"inline/system.inl"
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\unicode.h
+	"base.h"
+
+1136102988 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\config.h
+	"base.h"
+
+1090982002 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\inline\system.inl
+	"allegro/debug.h"
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\debug.h
+	"base.h"
+
+1182016348 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\mouse.h
+	"base.h"
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\timer.h
+	"base.h"
+
+1102168590 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\keyboard.h
+	"base.h"
+
+1073702996 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\joystick.h
+	"base.h"
+
+1005124008 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\palette.h
+
+1138637856 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\gfx.h
+	"3d.h"
+	"base.h"
+	"fixed.h"
+	"inline/gfx.inl"
+
+1098013534 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\3d.h
+	"base.h"
+	"fixed.h"
+
+1107324732 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\fixed.h
+	"base.h"
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\inline\gfx.inl
+	"allegro/debug.h"
+	"asm.inl"
+
+1144573648 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\inline\asm.inl
+	"allegro/platform/al386gcc.h"
+	"allegro/platform/al386vc.h"
+	"allegro/platform/al386wat.h"
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\al386gcc.h
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\al386vc.h
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\platform\al386wat.h
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\color.h
+	"base.h"
+	"palette.h"
+	"inline/color.inl"
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\inline\color.inl
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\draw.h
+	"base.h"
+	"fixed.h"
+	"gfx.h"
+	"inline/draw.inl"
+
+1125291070 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\inline\draw.inl
+	"allegro/debug.h"
+	"allegro/3d.h"
+	"gfx.inl"
+
+1036130184 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\rle.h
+	"base.h"
+	"gfx.h"
+	"inline/rle.inl"
+
+1036130184 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\inline\rle.inl
+	"allegro/debug.h"
+
+1144573648 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\compiled.h
+	"base.h"
+
+1105935290 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\text.h
+	"base.h"
+
+1165918476 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\font.h
+	"base.h"
+
+1036130184 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\fli.h
+	"base.h"
+	"palette.h"
+
+1104460066 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\gui.h
+	"base.h"
+
+1142755534 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\sound.h
+	"base.h"
+	"digi.h"
+	"stream.h"
+	"midi.h"
+
+1142755534 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\digi.h
+	"base.h"
+
+1036130184 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\stream.h
+	"base.h"
+
+1142755534 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\midi.h
+	"base.h"
+
+1149067364 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\file.h
+	"base.h"
+
+1110337216 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\lzss.h
+	"base.h"
+
+1136102988 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\datafile.h
+	"base.h"
+
+1036130184 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\fmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/fmaths.inl"
+
+1130589298 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\inline\fmaths.inl
+	"asm.inl"
+
+1036130184 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\matrix.h
+	"base.h"
+	"fixed.h"
+	"fmaths.h"
+	"inline/matrix.inl"
+
+1007274772 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\inline\matrix.inl
+
+1036130184 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\quat.h
+	"base.h"
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\3dmaths.h
+	"base.h"
+	"fixed.h"
+	"inline/3dmaths.inl"
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\inline\3dmaths.inl
+
+1148194448 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\alcompat.h
+
+1036130184 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\fix.h
+	"fixed.h"
+	"fmaths.h"
+	"inline/fix.inl"
+
+1110297326 c:\users\riuzaki\desktop\codeblocks\mingw\include\allegro\inline\fix.inl
+
+1466928269 d:\c++\codigo base space invadrs\include\personajes.h
+	<allegro.h>
+
+1466929093 source:d:\c++\codigo base space invadrs\src\personajes.cpp
+	"personajes.h"
+	"../disparos.h"
+	"diseno.h"
+	<allegro.h>
+
+1466745442 source:d:\c++\codigo base space invadrs\src\diseno.cpp
+	"diseno.h"
+	<allegro.h>
+
+1466745166 d:\c++\codigo base space invadrs\include\diseno.h
+	<allegro.h>
+
